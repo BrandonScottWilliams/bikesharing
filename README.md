@@ -1,6 +1,6 @@
 # bikesharing
 ## Overview of Analysis
-The analysis was done to show off how a bike sharing business would work.
+The analysis was done to show, using data visualization tools the viability of a bike-sharing business in Des Moines.
 ## Results
 https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_16550773015010/Story1?publish=yes
 
