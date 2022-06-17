@@ -26,6 +26,6 @@ https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_
 | Checkout Times for Users | right-aligned |    $1 |
 | Trips by Weekday for each hour | right-aligned |    $1 |
 | Bike Utilization | right-aligned |    $1 |
-| Number of Rides by Gender | right-aligned |    $1 |
+| Number of Rides by Gender | right-aligned |    $1 
 The dashbard shows story of 5 visualizations. User Trip by Gender
 ## Summary
