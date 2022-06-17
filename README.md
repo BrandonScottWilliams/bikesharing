@@ -4,6 +4,14 @@ The analysis was done to show, using data visualization tools, the viability of 
 ## Results
 https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_16550773015010/Story1?publish=yes
 
+![image](https://user-images.githubusercontent.com/99148657/174228334-7a8e323e-294c-4d83-889a-5572a6e3b815.png)
+![image](https://user-images.githubusercontent.com/99148657/174229184-cb54afd6-b774-4262-9b80-891379f74f02.png)
+![image](https://user-images.githubusercontent.com/99148657/174229505-fdfc2d66-48da-4830-9a88-954d6e6a5fdc.png)
+![image](https://user-images.githubusercontent.com/99148657/174229673-7eabbf6a-8fbb-44df-932a-6ba7f74270fc.png)
+![image](https://user-images.githubusercontent.com/99148657/174229713-530d1c28-ed1f-44f9-ac82-57c6d9e0092c.png)
+
+
+
 
 | Name     |  Description  |  Location |
 |----------|:-------------:|------:|
