@@ -24,5 +24,8 @@ https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 | col 3 is | right-aligned |    $1 |
+| col 3 is | right-aligned |    $1 |
+| col 3 is | right-aligned |    $1 |
+| col 3 is | right-aligned |    $1 |
 The dashbard shows story of 5 visualizations. User Trip by Gender
 ## Summary
