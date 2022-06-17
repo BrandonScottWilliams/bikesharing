@@ -4,9 +4,9 @@ The analysis was done to show off how a bike sharing business would work.
 ## Results
 https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_16550773015010/Story1?publish=yes
 
-| Name     |   Description |
+| Name     |   Description | Location      |
 7
-|----------|:-------------:|
+|----------|:-------------:|:-------------:| 
 8
 | User trips by gender by Weekday |  Checkout Times by Gender | Dashboard |
 9
