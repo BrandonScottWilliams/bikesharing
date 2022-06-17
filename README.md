@@ -21,11 +21,11 @@ https://public.tableau.com/app/profile/brandon.scott.phillip.williams/viz/Book1_
 | Name     |  Description  |  Location |
 |----------|:-------------:|------:|
 | User trips by gender by Weekday |  Checkout Times by Gender | Dashboard |
-| Trips by Gender |    centered   |   $12 |
-| Checkout Times by Gender | right-aligned |    $1 |
-| Checkout Times for Users | right-aligned |    $1 |
-| Trips by Weekday for each hour | right-aligned |    $1 |
-| Bike Utilization | right-aligned |    $1 |
-| Number of Rides by Gender | right-aligned |    $1 
+| Trips by Gender |    centered   |   Dashboard |
+| Checkout Times by Gender | right-aligned |    Dashboard |
+| Checkout Times for Users | right-aligned |    Dashboard |
+| Trips by Weekday for each hour | right-aligned |    Dashboard |
+| Bike Utilization | right-aligned |   Story 1 |
+| Number of Rides by Gender | right-aligned |    Story 2 | 
 The dashbard shows story of 5 visualizations. User Trip by Gender
 ## Summary
